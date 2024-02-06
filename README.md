@@ -2,7 +2,7 @@
 Minesweeper is a classic single-player puzzle game where the objective is to clear a rectangular grid containing hidden mines without detonating any of them. The grid is initially covered, and players must uncover squares one at a time by clicking on them. Each square may contain a number indicating the adjacent mines, a mine itself, or be empty.
 
 # Gameplay
-Objective: Uncover all non-mine squares without detonating any mines.
+Objective: Uncover all non-mine squares without detonating any mines.<br>
 Uncovering Squares: Click on a square to reveal its content.
 Numbers: Numbers indicate the number of mines adjacent to the square.
 Mines: If a mine is uncovered, the game ends immediately.
